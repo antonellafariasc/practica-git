@@ -1,1 +1,2 @@
 archivo 1 linea 1git init
+linea 2
